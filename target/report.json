@@ -1,0 +1,737 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 8,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 27522000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que eu estou acessando a aplicação",
+            "match": {
+              "location": "stepDefinitions.LoginStep.que_eu_estou_acessando_a_aplicação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 437000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "eu digito o usuário \"standard_user\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"standard_user\"",
+                  "offset": 20
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.eu_digito_o_usuário(java.lang.String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 314000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "digito a senha \"secret_sauce\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.digito_a_senha(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 301000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "clicar em login",
+            "match": {
+              "location": "stepDefinitions.LoginStep.clicar_em_login()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 136000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "eu devo acessar a pagina de produtos",
+            "match": {
+              "location": "stepDefinitions.LoginStep.eu_devo_acessar_a_pagina_de_produtos()"
+            },
+            "keyword": "Então "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-05-03T11:51:32.784Z",
+        "line": 15,
+        "name": "Adicinar um item no carrinho de compras",
+        "description": "",
+        "id": "carrinho-de-compras;adicinar-um-item-no-carrinho-de-compras",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 422000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "eu adiciono um produto no carrinho de compras",
+            "match": {
+              "location": "stepDefinitions.CarrinhoDeComprasStep.eu_adiciono_um_produto_no_carrinho_de_compras()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 299000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "acesso o carrinho de compras",
+            "match": {
+              "location": "stepDefinitions.CarrinhoDeComprasStep.acesso_o_carrinho_de_compras()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 51000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "eu visualizo o produto que foi adicionado ao carrinho de compras",
+            "match": {
+              "location": "stepDefinitions.CarrinhoDeComprasStep.eu_visualizo_o_produto_que_foi_adicionado_ao_carrinho_de_compras()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 152000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que eu estou acessando a aplicação",
+            "match": {
+              "location": "stepDefinitions.LoginStep.que_eu_estou_acessando_a_aplicação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 283000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "eu digito o usuário \"standard_user\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"standard_user\"",
+                  "offset": 20
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.eu_digito_o_usuário(java.lang.String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 304000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "digito a senha \"secret_sauce\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.digito_a_senha(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 211000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "clicar em login",
+            "match": {
+              "location": "stepDefinitions.LoginStep.clicar_em_login()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 346000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "eu devo acessar a pagina de produtos",
+            "match": {
+              "location": "stepDefinitions.LoginStep.eu_devo_acessar_a_pagina_de_produtos()"
+            },
+            "keyword": "Então "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-05-03T11:52:03.250Z",
+        "line": 20,
+        "name": "Remover um item do carrinho de compras",
+        "description": "",
+        "id": "carrinho-de-compras;remover-um-item-do-carrinho-de-compras",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 153000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "eu acesso o carrinho de compras",
+            "match": {
+              "location": "stepDefinitions.CarrinhoDeComprasStep.eu_acesso_o_carrinho_de_compras()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 139000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "removo um item",
+            "match": {
+              "location": "stepDefinitions.CarrinhoDeComprasStep.removo_um_item()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 37000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "o item deverar ser excluido do carrinho de compras",
+            "match": {
+              "location": "stepDefinitions.CarrinhoDeComprasStep.o_item_deverar_ser_excluido_do_carrinho_de_compras()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      }
+    ],
+    "name": "Carrinho de compras",
+    "description": "    Como usuário gostaria de acessar o sistema e adicionar ou remover\n    itens ao carrinho de compras",
+    "id": "carrinho-de-compras",
+    "keyword": "Funcionalidade",
+    "uri": "file:src/feature/carrinho_de_compras.feature",
+    "tags": []
+  },
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 8,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 139000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que eu estou acessando a aplicação",
+            "match": {
+              "location": "stepDefinitions.LoginStep.que_eu_estou_acessando_a_aplicação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 262000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "eu digito o usuário \"standard_user\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"standard_user\"",
+                  "offset": 20
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.eu_digito_o_usuário(java.lang.String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 281000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "digito a senha \"secret_sauce\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.digito_a_senha(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 205000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "clicar em login",
+            "match": {
+              "location": "stepDefinitions.LoginStep.clicar_em_login()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 99000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "eu devo acessar a pagina de produtos",
+            "match": {
+              "location": "stepDefinitions.LoginStep.eu_devo_acessar_a_pagina_de_produtos()"
+            },
+            "keyword": "Então "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-05-03T11:52:05.439Z",
+        "line": 15,
+        "name": "Finalizar a compra de um produto",
+        "description": "",
+        "id": "finalizar-compra;finalizar-a-compra-de-um-produto",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 167000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "que eu tenha um produto no carrinho de compra",
+            "match": {
+              "location": "stepDefinitions.FinalizarCompra.que_eu_tenha_um_produto_no_carrinho_de_compra()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 176000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "acesso o carrinho de compras",
+            "match": {
+              "location": "stepDefinitions.CarrinhoDeComprasStep.acesso_o_carrinho_de_compras()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 978000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "inicio a compra de um produto",
+            "match": {
+              "location": "stepDefinitions.FinalizarCompra.inicio_a_compra_de_um_produto()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 226000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "eu devo finalizar um compra com sucesso",
+            "match": {
+              "location": "stepDefinitions.FinalizarCompra.eu_devo_finalizar_um_compra_com_sucesso()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 8,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 125000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que eu estou acessando a aplicação",
+            "match": {
+              "location": "stepDefinitions.LoginStep.que_eu_estou_acessando_a_aplicação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 268000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "eu digito o usuário \"standard_user\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"standard_user\"",
+                  "offset": 20
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.eu_digito_o_usuário(java.lang.String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 216000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "digito a senha \"secret_sauce\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.digito_a_senha(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 221000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "clicar em login",
+            "match": {
+              "location": "stepDefinitions.LoginStep.clicar_em_login()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 100000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "eu devo acessar a pagina de produtos",
+            "match": {
+              "location": "stepDefinitions.LoginStep.eu_devo_acessar_a_pagina_de_produtos()"
+            },
+            "keyword": "Então "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-05-03T11:52:08.364Z",
+        "line": 21,
+        "name": "Cancelar uma compra que ainda não foi finalizada",
+        "description": "",
+        "id": "finalizar-compra;cancelar-uma-compra-que-ainda-não-foi-finalizada",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 141000000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "que eu tenha um produto no carrinho de compra",
+            "match": {
+              "location": "stepDefinitions.FinalizarCompra.que_eu_tenha_um_produto_no_carrinho_de_compra()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 129000000,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "acesso o carrinho de compras",
+            "match": {
+              "location": "stepDefinitions.CarrinhoDeComprasStep.acesso_o_carrinho_de_compras()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 944000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "inicio a compra de um produto",
+            "match": {
+              "location": "stepDefinitions.FinalizarCompra.inicio_a_compra_de_um_produto()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 148000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "eu posso cancelar uma compra que ainda não foi finalizada",
+            "match": {
+              "location": "stepDefinitions.FinalizarCompra.eu_posso_cancelar_uma_compra_que_ainda_não_foi_finalizada()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      }
+    ],
+    "name": "Finalizar compra",
+    "description": "  Como usuário gostaria de acessar a\n  aplicação e finalizar a compra de produto",
+    "id": "finalizar-compra",
+    "keyword": "Funcionalidade",
+    "uri": "file:src/feature/finalizar_compra.feature",
+    "tags": []
+  },
+  {
+    "line": 3,
+    "elements": [
+      {
+        "start_timestamp": "2021-05-03T11:52:11.292Z",
+        "line": 8,
+        "name": "Fazer login com sucesso",
+        "description": "",
+        "id": "logar-no-sistema;fazer-login-com-sucesso",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 98000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "que eu estou acessando a aplicação",
+            "match": {
+              "location": "stepDefinitions.LoginStep.que_eu_estou_acessando_a_aplicação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 235000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "eu digito o usuário \"standard_user\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"standard_user\"",
+                  "offset": 20
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.eu_digito_o_usuário(java.lang.String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 218000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "digito a senha \"secret_sauce\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"secret_sauce\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.digito_a_senha(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 139000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "clicar em login",
+            "match": {
+              "location": "stepDefinitions.LoginStep.clicar_em_login()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 66000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "eu devo acessar a pagina de produtos",
+            "match": {
+              "location": "stepDefinitions.LoginStep.eu_devo_acessar_a_pagina_de_produtos()"
+            },
+            "keyword": "Então "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-05-03T11:52:12.797Z",
+        "line": 15,
+        "name": "Não permitir logar no sistema",
+        "description": "",
+        "id": "logar-no-sistema;não-permitir-logar-no-sistema",
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 98000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "que eu estou acessando a aplicação",
+            "match": {
+              "location": "stepDefinitions.LoginStep.que_eu_estou_acessando_a_aplicação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 198000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "eu digito o usuário \"teste\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"teste\"",
+                  "offset": 20
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.eu_digito_o_usuário(java.lang.String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 189000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "digito a senha \"teste\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"teste\"",
+                  "offset": 15
+                }
+              ],
+              "location": "stepDefinitions.LoginStep.digito_a_senha(java.lang.String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 153000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "clicar em login",
+            "match": {
+              "location": "stepDefinitions.LoginStep.clicar_em_login()"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 44000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "eu não devo logar no sistema",
+            "match": {
+              "location": "stepDefinitions.LoginStep.eu_não_devo_logar_no_sistema()"
+            },
+            "keyword": "Então "
+          }
+        ]
+      }
+    ],
+    "name": "Logar no Sistema",
+    "description": "  Como usuário\n  Gostaria de acessar o sistema utilizando meu login de usuário e senha",
+    "id": "logar-no-sistema",
+    "keyword": "Funcionalidade",
+    "uri": "file:src/feature/logar_no_sistema.feature",
+    "tags": []
+  }
+]
