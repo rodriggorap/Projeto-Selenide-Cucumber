@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 27522000000,
+              "duration": 7425000000,
               "status": "passed"
             },
             "line": 9,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 437000000,
+              "duration": 543000000,
               "status": "passed"
             },
             "line": 10,
@@ -41,7 +41,7 @@
           },
           {
             "result": {
-              "duration": 314000000,
+              "duration": 295000000,
               "status": "passed"
             },
             "line": 11,
@@ -59,7 +59,7 @@
           },
           {
             "result": {
-              "duration": 301000000,
+              "duration": 235000000,
               "status": "passed"
             },
             "line": 12,
@@ -71,7 +71,7 @@
           },
           {
             "result": {
-              "duration": 136000000,
+              "duration": 420000000,
               "status": "passed"
             },
             "line": 13,
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-05-03T11:51:32.784Z",
+        "start_timestamp": "2021-05-03T14:22:41.492Z",
         "line": 15,
         "name": "Adicinar um item no carrinho de compras",
         "description": "",
@@ -94,7 +94,7 @@
         "steps": [
           {
             "result": {
-              "duration": 422000000,
+              "duration": 101000000,
               "status": "passed"
             },
             "line": 16,
@@ -106,7 +106,7 @@
           },
           {
             "result": {
-              "duration": 299000000,
+              "duration": 122000000,
               "status": "passed"
             },
             "line": 17,
@@ -118,7 +118,7 @@
           },
           {
             "result": {
-              "duration": 51000000,
+              "duration": 59000000,
               "status": "passed"
             },
             "line": 18,
@@ -139,7 +139,7 @@
         "steps": [
           {
             "result": {
-              "duration": 152000000,
+              "duration": 115000000,
               "status": "passed"
             },
             "line": 9,
@@ -151,7 +151,7 @@
           },
           {
             "result": {
-              "duration": 283000000,
+              "duration": 224000000,
               "status": "passed"
             },
             "line": 10,
@@ -169,7 +169,7 @@
           },
           {
             "result": {
-              "duration": 304000000,
+              "duration": 191000000,
               "status": "passed"
             },
             "line": 11,
@@ -187,7 +187,7 @@
           },
           {
             "result": {
-              "duration": 211000000,
+              "duration": 144000000,
               "status": "passed"
             },
             "line": 12,
@@ -199,7 +199,7 @@
           },
           {
             "result": {
-              "duration": 346000000,
+              "duration": 55000000,
               "status": "passed"
             },
             "line": 13,
@@ -212,7 +212,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-05-03T11:52:03.250Z",
+        "start_timestamp": "2021-05-03T14:22:51.295Z",
         "line": 20,
         "name": "Remover um item do carrinho de compras",
         "description": "",
@@ -222,7 +222,7 @@
         "steps": [
           {
             "result": {
-              "duration": 153000000,
+              "duration": 122000000,
               "status": "passed"
             },
             "line": 21,
@@ -234,7 +234,7 @@
           },
           {
             "result": {
-              "duration": 139000000,
+              "duration": 105000000,
               "status": "passed"
             },
             "line": 22,
@@ -278,7 +278,7 @@
         "steps": [
           {
             "result": {
-              "duration": 139000000,
+              "duration": 102000000,
               "status": "passed"
             },
             "line": 9,
@@ -290,7 +290,7 @@
           },
           {
             "result": {
-              "duration": 262000000,
+              "duration": 231000000,
               "status": "passed"
             },
             "line": 10,
@@ -308,7 +308,7 @@
           },
           {
             "result": {
-              "duration": 281000000,
+              "duration": 182000000,
               "status": "passed"
             },
             "line": 11,
@@ -326,7 +326,7 @@
           },
           {
             "result": {
-              "duration": 205000000,
+              "duration": 124000000,
               "status": "passed"
             },
             "line": 12,
@@ -338,7 +338,7 @@
           },
           {
             "result": {
-              "duration": 99000000,
+              "duration": 59000000,
               "status": "passed"
             },
             "line": 13,
@@ -351,7 +351,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-05-03T11:52:05.439Z",
+        "start_timestamp": "2021-05-03T14:22:52.618Z",
         "line": 15,
         "name": "Finalizar a compra de um produto",
         "description": "",
@@ -361,7 +361,7 @@
         "steps": [
           {
             "result": {
-              "duration": 167000000,
+              "duration": 143000000,
               "status": "passed"
             },
             "line": 16,
@@ -373,7 +373,7 @@
           },
           {
             "result": {
-              "duration": 176000000,
+              "duration": 98000000,
               "status": "passed"
             },
             "line": 17,
@@ -385,7 +385,7 @@
           },
           {
             "result": {
-              "duration": 978000000,
+              "duration": 796000000,
               "status": "passed"
             },
             "line": 18,
@@ -397,7 +397,7 @@
           },
           {
             "result": {
-              "duration": 226000000,
+              "duration": 177000000,
               "status": "passed"
             },
             "line": 19,
@@ -418,7 +418,7 @@
         "steps": [
           {
             "result": {
-              "duration": 125000000,
+              "duration": 70000000,
               "status": "passed"
             },
             "line": 9,
@@ -430,7 +430,7 @@
           },
           {
             "result": {
-              "duration": 268000000,
+              "duration": 210000000,
               "status": "passed"
             },
             "line": 10,
@@ -448,7 +448,7 @@
           },
           {
             "result": {
-              "duration": 216000000,
+              "duration": 189000000,
               "status": "passed"
             },
             "line": 11,
@@ -466,7 +466,7 @@
           },
           {
             "result": {
-              "duration": 221000000,
+              "duration": 128000000,
               "status": "passed"
             },
             "line": 12,
@@ -478,7 +478,7 @@
           },
           {
             "result": {
-              "duration": 100000000,
+              "duration": 64000000,
               "status": "passed"
             },
             "line": 13,
@@ -491,7 +491,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-05-03T11:52:08.364Z",
+        "start_timestamp": "2021-05-03T14:22:54.829Z",
         "line": 21,
         "name": "Cancelar uma compra que ainda não foi finalizada",
         "description": "",
@@ -501,7 +501,7 @@
         "steps": [
           {
             "result": {
-              "duration": 141000000,
+              "duration": 133000000,
               "status": "passed"
             },
             "line": 22,
@@ -513,7 +513,7 @@
           },
           {
             "result": {
-              "duration": 129000000,
+              "duration": 104000000,
               "status": "passed"
             },
             "line": 23,
@@ -525,7 +525,7 @@
           },
           {
             "result": {
-              "duration": 944000000,
+              "duration": 913000000,
               "status": "passed"
             },
             "line": 24,
@@ -537,7 +537,7 @@
           },
           {
             "result": {
-              "duration": 148000000,
+              "duration": 156000000,
               "status": "passed"
             },
             "line": 25,
@@ -561,7 +561,7 @@
     "line": 3,
     "elements": [
       {
-        "start_timestamp": "2021-05-03T11:52:11.292Z",
+        "start_timestamp": "2021-05-03T14:22:57.495Z",
         "line": 8,
         "name": "Fazer login com sucesso",
         "description": "",
@@ -571,7 +571,7 @@
         "steps": [
           {
             "result": {
-              "duration": 98000000,
+              "duration": 101000000,
               "status": "passed"
             },
             "line": 9,
@@ -583,7 +583,7 @@
           },
           {
             "result": {
-              "duration": 235000000,
+              "duration": 230000000,
               "status": "passed"
             },
             "line": 10,
@@ -601,7 +601,7 @@
           },
           {
             "result": {
-              "duration": 218000000,
+              "duration": 217000000,
               "status": "passed"
             },
             "line": 11,
@@ -619,7 +619,7 @@
           },
           {
             "result": {
-              "duration": 139000000,
+              "duration": 177000000,
               "status": "passed"
             },
             "line": 12,
@@ -631,7 +631,7 @@
           },
           {
             "result": {
-              "duration": 66000000,
+              "duration": 87000000,
               "status": "passed"
             },
             "line": 13,
@@ -644,7 +644,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-05-03T11:52:12.797Z",
+        "start_timestamp": "2021-05-03T14:22:58.984Z",
         "line": 15,
         "name": "Não permitir logar no sistema",
         "description": "",
@@ -654,7 +654,7 @@
         "steps": [
           {
             "result": {
-              "duration": 98000000,
+              "duration": 101000000,
               "status": "passed"
             },
             "line": 16,
@@ -666,7 +666,7 @@
           },
           {
             "result": {
-              "duration": 198000000,
+              "duration": 217000000,
               "status": "passed"
             },
             "line": 17,
@@ -684,7 +684,7 @@
           },
           {
             "result": {
-              "duration": 189000000,
+              "duration": 173000000,
               "status": "passed"
             },
             "line": 18,
@@ -702,7 +702,7 @@
           },
           {
             "result": {
-              "duration": 153000000,
+              "duration": 132000000,
               "status": "passed"
             },
             "line": 19,
@@ -714,7 +714,7 @@
           },
           {
             "result": {
-              "duration": 44000000,
+              "duration": 59000000,
               "status": "passed"
             },
             "line": 20,
